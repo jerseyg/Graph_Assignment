@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XYZYear>
+    <sale month="Jan">
+    <sales>    
+            100
+        </sales>
+    </sale>
+    <sale month="Feb">
+        <sales>
+            200
+        </sales>
+    </sale>
+     <sale month="March">
+        <sales>
+            300
+        </sales>
+    </sale>
+     <sale month="Arpil">
+        <sales>
+            350
+        </sales>
+    </sale>
+     <sale month="May">
+        <sales>
+            170
+        </sales>
+    </sale>
+     <sale month="June">
+        <sales>
+            400
+        </sales>
+    </sale>
+     <sale month="July">
+        <sales>
+            800
+        </sales>
+    </sale>
+     <sale month="Aug">
+        <sales>
+            766
+        </sales>
+    </sale>
+     <sale month="Sept">
+        <sales>
+            655
+        </sales>
+    </sale>
+     <sale month="Oct">
+        <sales>
+            400
+        </sales>
+    </sale>
+     <sale month="Nov">
+        <sales>
+            900
+        </sales>
+    </sale>
+     <sale month="Dec">
+        <sales>
+            1200
+        </sales>
+    </sale>
+</XYZYear>

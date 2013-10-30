@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XYZYear>
+  <sales quarter="1">
+      <sale region="North">
+        2200000
+      </sale>
+      <sale region="South">
+        2500000
+      </sale>
+      <sale region="West">
+        2000000
+      </sale>
+      <sale region="East">
+        2100000
+      </sale>
+  </sales>
+  <sales quarter="2">
+      <sale region="North">
+        1234551
+      </sale>
+      <sale region="South">
+        5200000
+      </sale>
+      <sale region="West">
+        2500000
+      </sale>
+      <sale region="East">
+        6300000
+      </sale>
+  </sales>
+  <sales quarter="3">
+      <sale region="North">
+        6300000
+      </sale>
+      <sale region="South">
+        9520000
+      </sale>
+      <sale region="West">
+        1000000
+      </sale>
+      <sale region="East">
+        6350000
+      </sale>
+  </sales>
+  <sales quarter="4">
+      <sale region="North">
+        1500000
+      </sale>
+      <sale region="South">
+        8500000
+      </sale>
+      <sale region="West">
+        2500000
+      </sale>
+      <sale region="East">
+        3840000
+      </sale>
+  </sales>
+</XYZYear>
